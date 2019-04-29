@@ -1,0 +1,5 @@
+1. Increase number of iterations
+2. Use more training examples
+3. Explore and use more predictive features for model development
+4. Fine-tune hyperparameters. First perform broad grid search and then perform localized grid search
+	about the best estimate obtained from the first grid search
